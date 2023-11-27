@@ -10,7 +10,7 @@ namespace Earth
                 private void Form1_Load(object sender, EventArgs e)
                 {
                     MessageBox.Show("sub sub");
-                    MessageBox.Show("sub2 sub2");
+                    MessageBox.Show("sub2.0 sub2.0");
                     MessageBox.Show("sub3 sub3");
         }
     }
